@@ -29,48 +29,6 @@ An immersive scrollytelling space narrative with interactive animations.
 - Web Audio API
 - SVG Animations
 
-## 🚀 Live Demo
-
-[View Live](https://YOUR_USERNAME.github.io/the-last-signal/)
-
-## 📦 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/the-last-signal.git
-```
-
-2. Open `index.html` in your browser
-
-No build tools required — it's a single HTML file!
-
-## 🎮 How to Experience
-
-1. **Scroll** through the story
-2. **Click** on the sound button (bottom-right) to enable ambient audio
-3. **Navigate** using dots on the right side
-4. **Click** "Begin Transmission" to interact with aliens
-5. **Select symbols** and send your response
-
-## 📁 Project Structure
-
-```
-the-last-signal/
-├── index.html      # Main file (all-in-one)
-└── README.md       # Documentation
-```
-
-## 🎨 Design
-
-- **Color Palette**: Deep space (#0a0a0f), Cyan (#00f5ff), Magenta (#ff00ff)
-- **Typography**: Orbitron (display), Rajdhani (body), Space Mono (code)
-- **Effects**: Glitch text, parallax layers, pulse animations
-
-## 📄 License
-
-MIT License — feel free to use for your own projects!
-
-## 👤 Author
 
 Created with ❤️ by Roy Runte
 
