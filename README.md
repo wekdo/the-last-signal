@@ -30,8 +30,6 @@ An immersive scrollytelling space narrative with interactive animations.
 - SVG Animations
 
 
-Created with ❤️ by Roy Runte
-
 ---
 
 *"In the vast silence between stars, we found each other."*
